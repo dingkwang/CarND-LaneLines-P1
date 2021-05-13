@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 
 [image0]: ./examples/grayscale.jpg "Grayscale"
 
-[image1]: ./test_images/out_out_whiteCarLaneSwitch.jpg
+[image1]: ./test_images/out_solidWhiteRight.jpg
 [image2]: ./test_images/blur.png
 [image3]: ./test_images/edge.png
 [image4]: ./test_images/cropped.png
